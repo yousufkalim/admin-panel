@@ -96,6 +96,7 @@ const Users = () => {
       getUsers();
     });
   };
+  console.log("userss",users)
 
   return (
     <>
